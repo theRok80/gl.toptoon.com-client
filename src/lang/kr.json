@@ -1,0 +1,11 @@
+{
+  "Hello": "안녕? 씹새야?",
+
+  "header": {
+    "login": "로그인",
+    "comics": "코믹스",
+    "completed": "완결",
+    "recommend": "추천",
+    "new": "신작"
+  }
+}

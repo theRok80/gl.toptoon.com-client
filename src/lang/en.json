@@ -1,0 +1,20 @@
+{
+  "Hello": "Hello Motherfucker",
+
+  "header": {
+    "login": "LOGIN",
+    "comics": "COMICS",
+    "completed": "COMPLETED",
+    "recommend": "RECOMMEND",
+    "new": "NEW"
+  },
+
+  "footer": {
+    "about": "About",
+    "terms of service": "Terms of Service",
+    "privacy policy": "Privacy Policy",
+    "help": "Help",
+    "notifications": "Notifications",
+    "submission": "Submission"
+  }
+}
